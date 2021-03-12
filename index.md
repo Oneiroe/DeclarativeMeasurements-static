@@ -28,11 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[ERROR-INJECTION-NEU_del_10i_err-trace_output](ERROR-INJECTION-NEU_del_10i_err-trace_output)
-
-[DEL_A](ERROR-INJECTION-NEU_del_10i_err-trace_output/ERROR-INJECTION-a-Init(a).html)
 
 [plots](plots/)
+
 [plot1](plots/ERROR-INJECTION-ef-Response(e,f).html)
 
 ### Jekyll Themes
