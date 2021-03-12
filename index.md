@@ -32,6 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [DEL_A](ERROR-INJECTION-NEU_del_10i_err-trace_output/ERROR-INJECTION-a-Init(a).html)
 
+[plots](plots/)
+[plot1](plots/ERROR-INJECTION-ef-Response(e,f).html)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oneiroe/DeclarativeMeasurements-static/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
