@@ -1,44 +1,91 @@
-## Welcome to GitHub Pages
+# DeclarativeMeasurements-static
+Static Repository for results and tests sharing of Janus declarative specifications measurement component.
+Go to the static page to just download the files [https://github.com/Oneiroe/DeclarativeMeasurements-static](https://github.com/Oneiroe/DeclarativeMeasurements-static)
 
-You can use the [editor on GitHub](https://github.com/Oneiroe/DeclarativeMeasurements-static/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Find the active development in the main [Janus repository](https://github.com/Oneiroe/Janus).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Files Index
 
-### Markdown
+ - [index.md](./index.md)
+      - Welcome to GitHub Pages
+    - DeclarativeMeasurements-static
+        - Markdown
+        - Jekyll Themes
+        - Support or Contact
+ - **ERROR-INJECTION-TASKS-INSERTION/**
+   - [ERROR-INJECTION-a-Init(a).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-a-Init(a).html)
+   - [ERROR-INJECTION-b-End(b).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-b-End(b).html)
+   - [ERROR-INJECTION-c-AtMostOne(c).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-c-AtMostOne(c).html)
+   - [ERROR-INJECTION-d-Participation(d).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-d-Participation(d).html)
+   - [ERROR-INJECTION-e-Response(e,f).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-e-Response(e,f).html)
+   - [ERROR-INJECTION-f-Response(e,f).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-f-Response(e,f).html)
+   - [ERROR-INJECTION-g-Precedence(g,h).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-g-Precedence(g,h).html)
+   - [ERROR-INJECTION-h-Precedence(g,h).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-h-Precedence(g,h).html)
+   - [ERROR-INJECTION-i-AlternatePrecedence(i,l).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-i-AlternatePrecedence(i,l).html)
+   - [ERROR-INJECTION-j-ChainSuccession(j,k).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-j-ChainSuccession(j,k).html)
+   - [ERROR-INJECTION-k-ChainSuccession(j,k).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-k-ChainSuccession(j,k).html)
+   - [ERROR-INJECTION-l-AlternatePrecedence(i,l).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-l-AlternatePrecedence(i,l).html)
+   - [ERROR-INJECTION-m-AlternateResponse(m,n).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-m-AlternateResponse(m,n).html)
+   - [ERROR-INJECTION-n-AlternateResponse(m,n).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-n-AlternateResponse(m,n).html)
+   - [ERROR-INJECTION-o-ChainResponse(o,p).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-o-ChainResponse(o,p).html)
+   - [ERROR-INJECTION-p-ChainResponse(o,p).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-p-ChainResponse(o,p).html)
+   - [ERROR-INJECTION-q-ChainPrecedence(q,r).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-q-ChainPrecedence(q,r).html)
+   - [ERROR-INJECTION-r-ChainPrecedence(q,r).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-r-ChainPrecedence(q,r).html)
+   - [ERROR-INJECTION-s-RespondedExistence(s,t).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-s-RespondedExistence(s,t).html)
+   - [ERROR-INJECTION-t-RespondedExistence(s,t).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-t-RespondedExistence(s,t).html)
+   - [ERROR-INJECTION-u-CoExistence(u,v).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-u-CoExistence(u,v).html)
+   - [ERROR-INJECTION-v-CoExistence(u,v).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-v-CoExistence(u,v).html)
+   - [ERROR-INJECTION-w-Succession(w,x).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-w-Succession(w,x).html)
+   - [ERROR-INJECTION-x-Succession(w,x).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-x-Succession(w,x).html)
+   - [ERROR-INJECTION-y-AlternateSuccession(y,z).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-y-AlternateSuccession(y,z).html)
+   - [ERROR-INJECTION-z-AlternateSuccession(y,z).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-z-AlternateSuccession(y,z).html)
+   - [ERROR-INJECTION-§-NotCoExistence(ü,§).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-§-NotCoExistence(ü,§).html)
+   - [ERROR-INJECTION-ü-NotCoExistence(ü,§).html](./ERROR-INJECTION-TASKS-INSERTION/ERROR-INJECTION-ü-NotCoExistence(ü,§).html)
+ - **ERROR-INJECTION-TASKS-WHITE-NOISE/**
+   - [ERROR-INJECTION-a-Init(a).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-a-Init(a).html)
+   - [ERROR-INJECTION-b-End(b).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-b-End(b).html)
+   - [ERROR-INJECTION-c-AtMostOne(c).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-c-AtMostOne(c).html)
+   - [ERROR-INJECTION-d-Participation(d).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-d-Participation(d).html)
+   - [ERROR-INJECTION-ef-Response(e,f).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-ef-Response(e,f).html)
+   - [ERROR-INJECTION-gh-Precedence(g,h).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-gh-Precedence(g,h).html)
+   - [ERROR-INJECTION-il-AlternatePrecedence(i,l).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-il-AlternatePrecedence(i,l).html)
+   - [ERROR-INJECTION-jk-ChainSuccession(j,k).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-jk-ChainSuccession(j,k).html)
+   - [ERROR-INJECTION-mn-AlternateResponse(m,n).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-mn-AlternateResponse(m,n).html)
+   - [ERROR-INJECTION-op-ChainResponse(o,p).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-op-ChainResponse(o,p).html)
+   - [ERROR-INJECTION-qr-ChainPrecedence(q,r).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-qr-ChainPrecedence(q,r).html)
+   - [ERROR-INJECTION-st-RespondedExistence(s,t).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-st-RespondedExistence(s,t).html)
+   - [ERROR-INJECTION-uv-CoExistence(u,v).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-uv-CoExistence(u,v).html)
+   - [ERROR-INJECTION-wx-Succession(w,x).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-wx-Succession(w,x).html)
+   - [ERROR-INJECTION-yz-AlternateSuccession(y,z).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-yz-AlternateSuccession(y,z).html)
+   - [ERROR-INJECTION-ü§-NotCoExistence(ü,§).html](./ERROR-INJECTION-TASKS-WHITE-NOISE/ERROR-INJECTION-ü§-NotCoExistence(ü,§).html)
+ - **ERROR-INJECTION_TASKS-DELETION/**
+   - [ERROR-INJECTION-a-Init(a).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-a-Init(a).html)
+   - [ERROR-INJECTION-b-End(b).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-b-End(b).html)
+   - [ERROR-INJECTION-c-AtMostOne(c).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-c-AtMostOne(c).html)
+   - [ERROR-INJECTION-d-Participation(d).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-d-Participation(d).html)
+   - [ERROR-INJECTION-e-Response(e,f).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-e-Response(e,f).html)
+   - [ERROR-INJECTION-f-Response(e,f).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-f-Response(e,f).html)
+   - [ERROR-INJECTION-g-Precedence(g,h).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-g-Precedence(g,h).html)
+   - [ERROR-INJECTION-h-Precedence(g,h).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-h-Precedence(g,h).html)
+   - [ERROR-INJECTION-i-AlternatePrecedence(i,l).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-i-AlternatePrecedence(i,l).html)
+   - [ERROR-INJECTION-j-ChainSuccession(j,k).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-j-ChainSuccession(j,k).html)
+   - [ERROR-INJECTION-k-ChainSuccession(j,k).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-k-ChainSuccession(j,k).html)
+   - [ERROR-INJECTION-l-AlternatePrecedence(i,l).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-l-AlternatePrecedence(i,l).html)
+   - [ERROR-INJECTION-m-AlternateResponse(m,n).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-m-AlternateResponse(m,n).html)
+   - [ERROR-INJECTION-n-AlternateResponse(m,n).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-n-AlternateResponse(m,n).html)
+   - [ERROR-INJECTION-o-ChainResponse(o,p).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-o-ChainResponse(o,p).html)
+   - [ERROR-INJECTION-p-ChainResponse(o,p).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-p-ChainResponse(o,p).html)
+   - [ERROR-INJECTION-q-ChainPrecedence(q,r).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-q-ChainPrecedence(q,r).html)
+   - [ERROR-INJECTION-r-ChainPrecedence(q,r).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-r-ChainPrecedence(q,r).html)
+   - [ERROR-INJECTION-s-RespondedExistence(s,t).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-s-RespondedExistence(s,t).html)
+   - [ERROR-INJECTION-t-RespondedExistence(s,t).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-t-RespondedExistence(s,t).html)
+   - [ERROR-INJECTION-u-CoExistence(u,v).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-u-CoExistence(u,v).html)
+   - [ERROR-INJECTION-v-CoExistence(u,v).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-v-CoExistence(u,v).html)
+   - [ERROR-INJECTION-w-Succession(w,x).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-w-Succession(w,x).html)
+   - [ERROR-INJECTION-x-Succession(w,x).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-x-Succession(w,x).html)
+   - [ERROR-INJECTION-y-AlternateSuccession(y,z).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-y-AlternateSuccession(y,z).html)
+   - [ERROR-INJECTION-z-AlternateSuccession(y,z).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-z-AlternateSuccession(y,z).html)
+   - [ERROR-INJECTION-§-NotCoExistence(ü,§).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-§-NotCoExistence(ü,§).html)
+   - [ERROR-INJECTION-ü-NotCoExistence(ü,§).html](./ERROR-INJECTION_TASKS-DELETION/ERROR-INJECTION-ü-NotCoExistence(ü,§).html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[ERROR-INJECTION-NEU_del_10i_err-trace_output](ERROR-INJECTION-NEU_del_10i_err-trace_output)
-
-[DEL_A](ERROR-INJECTION-NEU_del_10i_err-trace_output/ERROR-INJECTION-a-Init(a).html)
-
-[plots](plots/)
-[plot1](plots/ERROR-INJECTION-ef-Response(e,f).html)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oneiroe/DeclarativeMeasurements-static/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- filetreestop -->
