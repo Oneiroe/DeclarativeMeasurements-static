@@ -4,7 +4,17 @@ Go to the static page to just download the files [https://github.com/Oneiroe/Dec
 
 Find the active development in the main [Janus repository](https://github.com/Oneiroe/Janus).
 
-### Files Index
+Janus How-to
+=========================
+Janus is a tool-set for the discovery and evaluation of declarative process mining specifications ([LICENSE](https://github.com/Oneiroe/MINERful/blob/master/LICENSE) here).
+
+It is based on Linear Temporal Logic over finite traces with past operators (LTLp~f~) and specifically on the concept  of reactive constraints: formulae with an explicit distinction between the activator and consequent factors of the formula itself.
+
+For details on the usage of the software consult the [wiki page](https://github.com/Oneiroe/Janus/wiki)
+
+Files Index
+=========================
+
 <!-- filetree -->
 
  - **ErrorInjectionExperiment/**
@@ -88,10 +98,7 @@ Find the active development in the main [Janus repository](https://github.com/On
      - [ERROR-INJECTION-§-NotCoExistence(ü,§).html](./ErrorInjectionExperiment/ERROR-INJECTION_TASKS-DELETION-PLOTS/ERROR-INJECTION-§-NotCoExistence(ü,§).html)
      - [ERROR-INJECTION-ü-NotCoExistence(ü,§).html](./ErrorInjectionExperiment/ERROR-INJECTION_TASKS-DELETION-PLOTS/ERROR-INJECTION-ü-NotCoExistence(ü,§).html)
  - **JanusExecutable/**
-   - [Janus.jar](./JanusExecutable/Janus.jar)
-   - [LICENSE](./JanusExecutable/LICENSE)
-   - **lib/**
-   - **pySupport/**
+   - [JanusExecutable.zip](./JanusExecutable/JanusExecutable.zip)
  - **PerformancesTests/**
    - [PERFORMANCE-SPACE-SYNTHETIC-model.json](./PerformancesTests/PERFORMANCE-SPACE-SYNTHETIC-model.json)
    - [PERFORMANCE-SPACE-SYNTHETIC-var-MODEL-model.json](./PerformancesTests/PERFORMANCE-SPACE-SYNTHETIC-var-MODEL-model.json)
