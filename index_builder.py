@@ -101,7 +101,8 @@ def create_index(cwd, headings=False, wikilinks=False):
     md_exts = ['.markdown', '.mdown', '.mkdn', '.mkd', '.md', '.html']
     md_lines.append('<!-- filetree -->\n\n')
     for root, dirs, files in os.walk(cwd):
-        files = sorted([f for f in files if not f[0] == '.' and os.path.splitext(f)[-1] in md_exts])
+#         files = sorted([f for f in files if not f[0] == '.' and os.path.splitext(f)[-1] in md_exts])
+        files = sorted([f for f in files if not f[0] == '.'])
         dirs[:] = sorted([d for d in dirs if not d[0] == '.'])
         if len(files) > 0:
             level = root.count(os.sep) - base_level
